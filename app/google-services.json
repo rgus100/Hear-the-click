@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430112475556",
+    "project_id": "hear-the-click",
+    "storage_bucket": "hear-the-click.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430112475556:android:067c3729895e573dccd931",
+        "android_client_info": {
+          "package_name": "com.example.heartheclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430112475556-mrdhnvb8n7136gvlud434fnefqoe255r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heartheclick",
+            "certificate_hash": "3ccbf0f0438e103553ec974425f0068e08a59ef6"
+          }
+        },
+        {
+          "client_id": "430112475556-jo4nck1gqikgiukisibqir8ti28oplfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQv-6GLhUKzD-U5-M6AltlI5ENes17o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430112475556-jo4nck1gqikgiukisibqir8ti28oplfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
